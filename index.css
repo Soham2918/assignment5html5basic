@@ -1,7 +1,6 @@
 body{
     background-color: rgb(140, 233, 148);
     border: dotted red 9px;
-    height: 910px;
     float: left;
 }
 img{
@@ -9,10 +8,6 @@ img{
     float: left;
 }
 
-.proone{
-
-
-}
 
 .protwo{
     margin-top: 60px;
